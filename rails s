@@ -1,0 +1,40 @@
+[33m6632067[m[33m ([m[1;36mHEAD -> [m[1;32madmin-login[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m6632067[m[33m ([m[1;36mHEAD -> [m[1;32madmin-login[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m6632067[m[33m ([m[1;36mHEAD -> [m[1;32madmin-login[m[33m)[m HEAD@{2}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{3}: checkout: moving from develop to admin-login
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{4}: checkout: moving from make-aboutpage to develop
+[33m4ec0d4a[m[33m ([m[1;31morigin/make-aboutpage[m[33m, [m[1;32mmake-aboutpage[m[33m)[m HEAD@{5}: commit: 遷移できるようになりました
+[33mf92d3e8[m HEAD@{6}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{7}: checkout: moving from develop to make-aboutpage
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{8}: checkout: moving from make-homepagae to develop
+[33mef88d75[m[33m ([m[1;32mmake-homepagae[m[33m)[m HEAD@{9}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{10}: checkout: moving from develop to make-homepagae
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{11}: checkout: moving from add-devise to develop
+[33mba18727[m[33m ([m[1;32madd-devise[m[33m)[m HEAD@{12}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{13}: checkout: moving from develop to add-devise
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{14}: checkout: moving from add-ActiveStorage to develop
+[33mda82513[m[33m ([m[1;31morigin/add-ActiveStorage[m[33m, [m[1;32madd-ActiveStorage[m[33m)[m HEAD@{15}: commit: update
+[33m08fe5f6[m HEAD@{16}: commit: [Add]ActiveStorage
+[33m52d53d4[m HEAD@{17}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{18}: checkout: moving from develop to add-ActiveStorage
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{19}: checkout: moving from make-top-page to develop
+[33m1fb5210[m[33m ([m[1;32mmake-top-page[m[33m)[m HEAD@{20}: commit: first commit
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{21}: checkout: moving from develop to make-top-page
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{22}: checkout: moving from make-table to develop
+[33m33fcc99[m[33m ([m[1;31morigin/make-table[m[33m, [m[1;32mmake-table[m[33m)[m HEAD@{23}: commit: Add Table
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{24}: checkout: moving from develop to make-table
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{25}: checkout: moving from install-devise to develop
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{26}: merge origin/develop: Fast-forward
+[33mef86084[m HEAD@{27}: checkout: moving from develop to install-devise
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{28}: checkout: moving from maekawa.shota to develop
+[33m475588e[m[33m ([m[1;31morigin/maekawa.shota[m[33m, [m[1;32mmaekawa.shota[m[33m)[m HEAD@{29}: commit: [コンフリクト]
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{30}: checkout: moving from develop to maekawa.shota
+[33m2051daf[m[33m ([m[1;31morigin/install-devise[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32minstall-devise[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{31}: pull origin develop: Fast-forward
+[33ma536f22[m HEAD@{32}: checkout: moving from install-devise to develop
+[33mef86084[m HEAD@{33}: commit: Add Devise
+[33ma536f22[m HEAD@{34}: checkout: moving from develop to install-devise
+[33ma536f22[m HEAD@{35}: checkout: moving from develop to develop
+[33ma536f22[m HEAD@{36}: commit: first commit
+[33m6ac520a[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{37}: checkout: moving from main to develop
+[33m6ac520a[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{38}: Branch: renamed refs/heads/master to refs/heads/main
+[33m6ac520a[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{40}: commit (initial): first commit
